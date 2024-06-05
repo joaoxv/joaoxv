@@ -7,7 +7,7 @@ Meu nome é João Victor
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### Você pode entrar em contato comigo :mailbox
+- ### Você pode entrar em contato comigo 📫
 - joaovictordonascimento126@gmail.com
 
-![](https://tenor.com/pt-BR/view/adil-rule22-gif-24323980)
+![](https://media1.tenor.com/m/MURW5qZjnLUAAAAC/paul-walker-fast-and-furious.gif)
